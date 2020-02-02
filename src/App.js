@@ -13,7 +13,7 @@ function App() {
   return (
     <Container fluid>
       <Row>
-        <Col md="12" className="header-container">
+        <Col md="12">
         HELLO
         </Col>
       </Row>
