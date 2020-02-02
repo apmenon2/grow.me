@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.green-card-header { 
+  background-color: green;
+}
+
+.header-container {
+  background: url("./assets/medical_background.jpg") no-repeat center center fixed;
+  min-height: 500px;
+}
